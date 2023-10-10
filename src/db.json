@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Why do we use it?\n It is a long established fact that a reader will be distracted",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Opening Party!",
+      "body": "Why do we use it?\n It is a long established fact that a reader will be distracted",
+      "author": "yoshi",
+      "id": 2
+    },
+    {
+      "title": "Shashwat Garg",
+      "body": "Shashwat Garg is stupid.",
+      "author": "mario",
+      "id": 5
+    },
+    {
+      "title": "Kites",
+      "body": "Kites are flown on uttarayan",
+      "author": "yoshi",
+      "id": 6
+    }
+  ]
+}
